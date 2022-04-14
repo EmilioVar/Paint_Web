@@ -174,7 +174,28 @@ border-radius: 0 0 25px 25px;
         overflow: hidden;
     }
     .imagen-cab{
-        width: 150px;
+        width: 200px;
+    }
+    .img-cab-1{
+        top: 60px;
+        left: 300px;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+    }
+    .img-cab-2{
+        top: 60px;
+        left: -270px;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+    }
+    .img-cab-3{
+        top: 40px;
+        left: 60px;
+        right: 0;
+        bottom: 0;
+        margin: auto;
     }
 
 }
